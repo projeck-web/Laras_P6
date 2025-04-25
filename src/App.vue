@@ -74,6 +74,9 @@ export default {
 
 <template>
   <div>
+    <h2>ber</h2>
+    <h2>JavaScript</h2>
+    <h2>Asynchronous JavaScript</h2>
     <h1>PERTEMUAN 6 PBK</h1>
     <button @click="Callback">Ambil dengan Callback</button>
     <button @click="Promise">Ambil dengan Promise</button>
